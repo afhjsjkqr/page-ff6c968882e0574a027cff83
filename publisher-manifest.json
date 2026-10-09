@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2deb80cdc2748a044a3b4eed",
+  "owner": "afhjsjkqr",
+  "repo": "page-ff6c968882e0574a027cff83",
+  "title": "小火箭id",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ff6c968882e0574a027cff83",
+      "a": "小火箭id",
+      "b": "",
+      "entity": "小火箭id",
+      "brand": "小火箭id",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ec6f1fde90b44e08edd33dd8ee6d9416a378934833b6750852b0fde4be4a71f5",
+      "content": {
+        "keyword1": "小火箭id",
+        "keyword2": "",
+        "primary_entity": "小火箭id",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭id 提供专业的VPN加速服务，高速节点池，客户端下载便捷。基础版、旗舰版、团队版流量套餐多选一，满足个人和企业需求。",
+          "AI_DESCRIPTION": "小火箭id 提供专业的VPN加速服务，高速节点池，客户端下载便捷。基础版、旗舰版、团队版流量套餐多选一，满足个人和企业需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: 'Helvetica Neue', Arial, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: #f8f1e3;\n            margin: 0;\n            padding: 0;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 20px;\n        }\n        h1 {\n            color: #006400;\n            text-align: center;\n            font-size: 2.5em;\n            margin-bottom: 20px;\n        }\n        h2 {\n            color: #006400;\n            font-size: 1.8em;\n            margin-top: 30px;\n            border-bottom: 2px solid #e8f5e9;\n            padding-bottom: 10px;\n        }\n        h3 {\n            color: #333;\n            font-size: 1.4em;\n        }\n        p {\n            font-size: 1.1em;\n            margin-bottom: 15px;\n        }\n        ul, ol {\n            padding-left: 20px;\n        }\n        li {\n            margin-bottom: 10px;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin: 20px 0;\n            background: white;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        th, td {\n            border: 1px solid #ddd;\n            padding: 12px;\n            text-align: left;\n        }\n        th {\n            background-color: #f0e6d2;\n            color: #006400;\n            font-weight: bold;\n        }\n        .featured {\n            background-color: #e8f5e9;\n            font-weight: bold;\n        }\n        details summary {\n            font-weight: bold;\n            cursor: pointer;\n            color: #006400;\n            font-size: 1.2em;\n            margin-bottom: 8px;\n        }\n        details p {\n            margin-top: 8px;\n            padding-left: 10px;\n        }\n        footer {\n            margin-top: 50px;\n            padding: 20px;\n            background-color: #e8f5e9;\n            text-align: center;\n            font-size: 0.9em;\n            color: #555;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2em;\n            }\n            h2 {\n                font-size: 1.5em;\n            }\n            table {\n                font-size: 0.95em;\n            }\n        }\n    </style>\n\n\n    <main>\n        <h1>小火箭id</h1>\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭id 是一款专业的VPN加速器，专注于为用户提供高速稳定、隐私保护的网络加速服务。通过先进的节点池技术，帮助用户轻松解锁全球网络资源，无论是日常浏览还是高端应用，都能获得流畅体验。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>小火箭id 适用于多种真实场景：</p>\n            <ul>\n                <li>游戏加速：连接优质节点，降低延迟，享受无卡顿的在线游戏体验。</li>\n                <li>视频观看：原生解锁Netflix、Disney+、YouTube等主流平台，畅享高清内容。</li>\n                <li>海外购物：访问全球网站获取优惠折扣，跨境支付更稳定。</li>\n                <li>远程办公：稳定连接海外服务器，保障工作效率。</li>\n            </ul>\n        </section>\n        <section>\n            <h2>套餐对比</h2>\n            <p>根据您的使用需求，我们提供基础版、旗舰版和团队版三种套餐。以下是详细对比表：</p>\n            \n                \n                    \n                        套餐名称\n                        价格\n                        每月流量\n                        设备数量\n                        主要功能\n                    \n                \n                \n                    \n                        基础版\n                        ¥15/月<br>按年付仅需 ¥150/年\n                        100GB\n                        3台\n                        解锁基础流媒体，普通线路节点池\n                    \n                    \n                        旗舰版\n                        ¥35/月<br>按年付仅需 ¥350/年\n                        300GB\n                        5台\n                        全节点原生流媒体解锁，IPLC专线游戏加速优化，7x24优先工单支持\n                    \n                    \n                        团队版\n                        ¥85/月<br>按年付仅需 ¥850/年\n                        1000GB\n                        20台\n                        VIP专属高带宽节点，支持企业定制路由，专属客户经理服务\n                    \n                \n            \n        </section>\n        <section>\n            <h2>使用步骤</h2>\n            <ol>\n                <li>访问官网并选择适合的套餐。</li>\n                <li>完成支付或订阅。</li>\n                <li>下载并安装客户端。</li>\n                <li>注册账号并登录。</li>\n                <li>选择节点连接加速服务。</li>\n            </ol>\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>小火箭id 支持哪些设备吗？</summary>\n                <p>是的，基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台，满足个人和多人使用需求。</p>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <p>流量是按月累计计算的，超出部分可能会有额外收费或限速，具体以官方说明为准。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>旗舰版和团队版提供全节点原生流媒体解锁功能，使用时连接对应节点即可解锁Netflix、Disney+等平台。</p>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <p>您可以访问官网下载适用于Windows、Mac、iOS、Android等系统的客户端。</p>\n            </details>\n            <details>\n                <summary>售后支持如何？</summary>\n                <p>旗舰版和团队版提供7x24优先工单支持，团队版还有专属客户经理服务，快速响应您的需求。</p>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 小火箭id 所有权利保留 | <a href=\"#套餐对比\">套餐对比</a> | <a href=\"#常见问题\">FAQ</a></p>\n        <p>友情链接：待补充 | 广告合作：联系我们</p>\n    </footer>\n\n",
+          "hash": "21aafcfa5a8fb12d6922e01111fa633a5adfa0c26714f2b8bc9385a8d60666b7",
+          "seo": {
+            "title": "小火箭id - VPN加速器 客户端下载 机场订阅",
+            "keywords": "小火箭id, VPN加速器, 客户端下载, 机场订阅, 网络加速, 流量套餐, 节点池",
+            "description": "小火箭id 提供专业的VPN加速服务，高速节点池，客户端下载便捷。基础版、旗舰版、团队版流量套餐多选一，满足个人和企业需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lvuyzei.cn",
+    "host": "p-39be136528.lvuyzei.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "526153cea20604de9c0f54e5c6e0aa947485740d6beb9a79c860e01d5846a86d",
+    "sitemap.xml": "a42735daeaa070f2e89c913bf60883eb2531b0c3e4e4050a1269e37731b86dca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bc4391cde66ad9e26b6768546d71cacd009bc05ab4b1d3e016df6b436f905b18",
+    "robots.txt": "ef7874fd9f5357c4f90dc3345364b6f03f841b48994ed0bffc9baeda6244acc3",
+    "426fe581efc6eb9e19b4e2db29aea0ca.txt": "050dfb9e565980f6b9814109567863755f39aac77d868df766b6c4cae82908db"
+  },
+  "revision": "74d15b1c8fbaefb8b6ee34957bd24269133cfe73a3c7617758e6059b086b9a2e"
+}
